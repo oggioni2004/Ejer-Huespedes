@@ -1,0 +1,3 @@
+C:/Users/richa/OneDrive/Escritorio/Clases Uni/Clases Uni/Huespedes/cmake-build-debug/CMakeFiles/Huespedes.dir
+C:/Users/richa/OneDrive/Escritorio/Clases Uni/Clases Uni/Huespedes/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/richa/OneDrive/Escritorio/Clases Uni/Clases Uni/Huespedes/cmake-build-debug/CMakeFiles/rebuild_cache.dir
